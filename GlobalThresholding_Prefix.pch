@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'GlobalThresholding' target in the 'GlobalThresholding' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <AppKit/AppKit.h>
+#endif
