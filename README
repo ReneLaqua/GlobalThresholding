@@ -4,3 +4,6 @@ GlobalThresholding
 brush roi from any given pixel threshold.
 
 Start creating your own plugins, visit:  http://osirixpluginbasics.wordpress.com
+
+If you find this plugin useful in your research projects you can support me by citing this plugin:
+Rene Laqua. (2016). Global Thresholding v1.0 OsiriX Plugin [Software]. Zenodo. http://doi.org/10.5281/zenodo.208170
